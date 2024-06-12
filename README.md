@@ -1,11 +1,15 @@
 # Alpine.js Language Server
 
-**Please note that this project is a hobby project and still in development.
-It’s currently not functional nor ready for use.**
+> [!WARNING] Please note that this project is a hobby project and still in
+> development. It’s currently not functional nor ready for use.
 
 `alpinejs-language-server` is a language server for
 [Alpine.js](https://alpinejs.dev) that implements the
 [Language Server Protocol (LSP)](https://microsoft.github.io/language-server-protocol/).
+
+> [!NOTE] In addition to hopefully being useful once finished, I want to use
+> this project for learning. That’s why I probably won’t accept contributions
+> before I have implemented basic language server functionalities.
 
 ## Features
 
