@@ -1,6 +1,7 @@
 # Alpine.js Language Server
 
-**Please note that this project is a hobby project and still in development. It’s currently not functional nor ready for use.**
+**Please note that this project is a hobby project and still in development.
+It’s currently not functional nor ready for use.**
 
 `alpinejs-language-server` is a language server for
 [Alpine.js](https://alpinejs.dev) that implements the
@@ -97,3 +98,10 @@ implemented. Please note that the list may not be exhaustive.
 - [ ] `window/workDoneProgress/create`
 - [ ] `window/workDoneProgress/cancel`
 - [ ] `telemetry/event`
+
+## License
+
+Copyright (c) 2024 Antti Kivi
+
+This project is licensed under version 2.0 of the Apache license. See the
+[`LICENSE`](LICENSE) for more information.
