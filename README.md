@@ -1,6 +1,6 @@
 # Alpine.js Language Server
 
-**Please note that this project is still in development and not ready for use.**
+**Please note that this project is a hobby project and still in development. It’s currently not functional nor ready for use.**
 
 `alpinejs-language-server` is a language server for
 [Alpine.js](https://alpinejs.dev) that implements the
